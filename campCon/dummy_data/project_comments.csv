@@ -1,0 +1,16 @@
+id,project_id,user_id,content,parent_id,created_at
+dddddddd-dddd-dddd-dddd-dddddddddddd,11111111-1111-1111-1111-111111111111,00000000-0000-0000-0000-000000000002,"This looks amazing! I'd love to contribute to the backend.",,2024-02-11T14:00:00Z
+dddddddd-dddd-dddd-dddd-ddddddddddde,11111111-1111-1111-1111-111111111111,00000000-0000-0000-0000-000000000001,"Thanks! We'd love to have you on board. Check out our GitHub repo.",dddddddd-dddd-dddd-dddd-dddddddddddd,2024-02-11T14:30:00Z
+dddddddd-dddd-dddd-dddd-dddddddddddf,11111111-1111-1111-1111-111111111112,00000000-0000-0000-0000-000000000001,"Great project! How are you handling the NLP part?",,2024-02-12T10:00:00Z
+dddddddd-dddd-dddd-dddd-dddddddddddg,11111111-1111-1111-1111-111111111112,00000000-0000-0000-0000-000000000002,"We're using GPT-4 API with custom fine-tuning for our use case.",dddddddd-dddd-dddd-dddd-dddddddddddf,2024-02-12T10:15:00Z
+dddddddd-dddd-dddd-dddd-dddddddddddh,11111111-1111-1111-1111-111111111113,00000000-0000-0000-0000-000000000005,"Interested in the nutrition tracking feature. When will it be ready?",,2024-02-13T11:00:00Z
+dddddddd-dddd-dddd-dddd-dddddddddddi,11111111-1111-1111-1111-111111111114,00000000-0000-0000-0000-000000000001,"This is exactly what I need for my startup! Can I join?",,2024-02-14T12:00:00Z
+dddddddd-dddd-dddd-dddd-dddddddddddj,11111111-1111-1111-1111-111111111115,00000000-0000-0000-0000-000000000006,"Love the visualization features. What libraries are you using?",,2024-02-15T13:00:00Z
+dddddddd-dddd-dddd-dddd-dddddddddddk,11111111-1111-1111-1111-111111111115,00000000-0000-0000-0000-000000000005,"We're using D3.js for custom visualizations and Chart.js for standard charts.",dddddddd-dddd-dddd-dddd-dddddddddddj,2024-02-15T13:30:00Z
+dddddddd-dddd-dddd-dddd-dddddddddddl,11111111-1111-1111-1111-111111111116,00000000-0000-0000-0000-000000000007,"How are you handling real-time messaging?",,2024-02-16T14:00:00Z
+dddddddd-dddd-dddd-dddd-dddddddddddm,11111111-1111-1111-1111-111111111117,00000000-0000-0000-0000-000000000001,"This component library looks professional. Great work!",,2024-02-17T15:00:00Z
+dddddddd-dddd-dddd-dddd-dddddddddddn,11111111-1111-1111-1111-111111111118,00000000-0000-0000-0000-000000000001,"Security is crucial for voting systems. Have you done a security audit?",,2024-02-18T16:00:00Z
+dddddddd-dddd-dddd-dddd-dddddddddddo,11111111-1111-1111-1111-111111111118,00000000-0000-0000-0000-000000000011,"Yes, we're working with security experts to audit the smart contracts.",dddddddd-dddd-dddd-dddd-dddddddddddn,2024-02-18T16:30:00Z
+dddddddd-dddd-dddd-dddd-dddddddddddp,11111111-1111-1111-1111-111111111119,00000000-0000-0000-0000-000000000001,"IoT projects are fascinating! What sensors are you using?",,2024-02-19T17:00:00Z
+dddddddd-dddd-dddd-dddd-dddddddddddq,11111111-1111-1111-1111-111111111120,00000000-0000-0000-0000-000000000002,"This platform could revolutionize online education!",,2024-02-20T18:00:00Z
+

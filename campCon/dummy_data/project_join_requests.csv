@@ -1,0 +1,12 @@
+id,project_id,user_id,message,status,created_at
+eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeee,11111111-1111-1111-1111-111111111111,00000000-0000-0000-0000-000000000008,"I have 3 years of experience with React and Node.js. Would love to contribute!",pending,2024-02-12T10:00:00Z
+eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeef,11111111-1111-1111-1111-111111111112,00000000-0000-0000-0000-000000000010,"I'm a ML engineer with experience in NLP. Can help with the AI features.",pending,2024-02-13T11:00:00Z
+eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeeg,11111111-1111-1111-1111-111111111113,00000000-0000-0000-0000-000000000013,"Mobile developer here! Would love to help with the React Native app.",accepted,2024-02-14T09:00:00Z
+eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeeh,11111111-1111-1111-1111-111111111114,00000000-0000-0000-0000-000000000020,"DevOps engineer with AWS certification. Can help with infrastructure.",pending,2024-02-15T10:00:00Z
+eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeei,11111111-1111-1111-1111-111111111115,00000000-0000-0000-0000-000000000017,"Data scientist here. Can help with analytics and visualization.",accepted,2024-02-16T11:00:00Z
+eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeej,11111111-1111-1111-1111-111111111116,00000000-0000-0000-0000-000000000016,"Full-stack developer interested in contributing to the social platform.",pending,2024-02-17T12:00:00Z
+eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeek,11111111-1111-1111-1111-111111111117,00000000-0000-0000-0000-000000000015,"UI/UX designer. Can help design new components for the library.",accepted,2024-02-18T13:00:00Z
+eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeel,11111111-1111-1111-1111-111111111118,00000000-0000-0000-0000-000000000014,"Blockchain developer. Interested in contributing to the voting system.",pending,2024-02-19T14:00:00Z
+eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeem,11111111-1111-1111-1111-111111111119,00000000-0000-0000-0000-000000000001,"Hardware engineer. Can help with IoT sensors and integration.",pending,2024-02-20T15:00:00Z
+eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeen,11111111-1111-1111-1111-111111111120,00000000-0000-0000-0000-000000000007,"Full-stack developer. Can help build the e-learning platform.",accepted,2024-02-21T16:00:00Z
+

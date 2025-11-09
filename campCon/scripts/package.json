@@ -1,0 +1,15 @@
+{
+  "name": "campus-connect-scripts",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Scripts for importing dummy data into Campus Connect",
+  "scripts": {
+    "create-users": "node create-dummy-users.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.4",
+    "csv-parse": "^5.5.0",
+    "dotenv": "^16.3.1"
+  }
+}
+
